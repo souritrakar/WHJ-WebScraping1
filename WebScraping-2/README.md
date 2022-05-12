@@ -1,0 +1,1 @@
+Task: To scrape the entire data (without using Selenium, instead BeautifulSoup) from the table of Field brown dwarfs from https://en.wikipedia.org/wiki/List_of_brown_dwarfs, create a dataframe using pandas, and write to a .csv file.
